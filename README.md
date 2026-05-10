@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zian Wang Peter (王梓安）👋</h1>
-<h3 align="center">M.Phil. Researcher in Autonomous Driving & AI Safety</h3>
+<h3 align="center">Researcher in Autonomous Driving & AI Safety</h3>
 
 <p align="center">
   <a href="mailto:peterwang.dase@connect.hku.hk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
