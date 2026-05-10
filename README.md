@@ -2,6 +2,7 @@
 <h3 align="center">M.Phil. Researcher in Autonomous Driving & AI Safety</h3>
 
 <p align="center">
+  <a href="mailto:peterwang.dase@connect.hku.hk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://scholar.google.com/citations?user=zkTzcFQAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"></a>
   <a href="https://www.linkedin.com/in/zian-wanghk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
@@ -31,15 +32,6 @@
 - ✅ **2026.05** – First manuscript accepted at **IEEE ITSC 2026**! 🎉  
 - 🎤 **2026.03** – Gave my first academic seminar at HKU Institute of Transport Studies  
 - 🚀 **2025.09** – Started M.Phil. at HKU DASE and joined HKU‑SAS Lab  
-
----
-
-### 📝 Selected Publications  
-1. **DRIFT: Driving Risk Inference via Field Transmission for Human‑like Autonomous Driving**  
-   Zian Wang, Yiming Shu, Zejian Deng, Chen Sun* | *IEEE ITSC 2026* (accepted)  
-
-2. **DREAM: Defensive Risk‑Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic**  
-   Zian Wang, et al. | [SSRN preprint](https://ssrn.com/abstract=6500569) (under review)  
 
 ---
 
