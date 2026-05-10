@@ -29,8 +29,8 @@
 ---
 
 ### 🔥 Recent News  
-- ✅ **2026.05** – First manuscript accepted at **IEEE ITSC 2026**! 🎉  
-- 🎤 **2026.03** – Gave my first academic seminar at HKU Institute of Transport Studies  
+- ✅ **2026.05** – First manuscript accepted at **[IEEE ITSC 2026](https://ieee-itsc.org/2026/)**! 🎉  
+- 🎤 **2026.03** – Gave my first [academic seminar at HKU Institute of Transport Studies](https://www.institute-of-transport-studies.hku.hk/post/student-seminar-by-mr-zian-wang-peter-on-mar-11-2026-1pm) 
 - 🚀 **2025.09** – Started M.Phil. at HKU DASE and joined HKU‑SAS Lab  
 
 ---
