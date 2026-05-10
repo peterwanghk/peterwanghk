@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zian (Peter) Wang 👋</h1>
+<h1 align="center">Hi, I'm Zian Wang Peter (王梓安）👋</h1>
 <h3 align="center">M.Phil. Researcher in Autonomous Driving & AI Safety</h3>
 
 <p align="center">
