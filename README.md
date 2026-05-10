@@ -2,10 +2,8 @@
 <h3 align="center">M.Phil. Researcher in Autonomous Driving & AI Safety</h3>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"></a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <!-- Replace IDs/handles as needed -->
+  <a href="https://scholar.google.com/citations?user=zkTzcFQAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"></a>
+  <a href="https://www.linkedin.com/in/zian-wanghk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -43,17 +41,13 @@
 2. **DREAM: Defensive Risk‑Aware Enhanced Maneuver Planning for Autonomous Vehicles in Heterogeneous Traffic**  
    Zian Wang, et al. | [SSRN preprint](https://ssrn.com/abstract=6500569) (under review)  
 
-3. **Drift‑Robust Pipeline Diagnostics: Integrating Physics Constraints with Sequential Learning**  
-   Zian Wang, et al. | [SSRN preprint](https://doi.org/10.2139/ssrn.6661502) (under review)  
-
-
 ---
 
-### 📌 Pinned Projects  
+### 📌 Highlight Projects  
 <!-- Replace links with your actual repository URLs -->
-- 🚗 **[DRIFT – Risk Field Propagation for Autonomous Driving](https://github.com/yourusername/DRIFT)**  
-- 🛡️ **[DREAM – Defensive Risk‑Aware Planner](https://github.com/yourusername/DREAM)**  
-- 📚 **[HKU‑SAS Course Materials](https://github.com/SAS-HKU)**  
+- 🚗 **[DRIFT – Risk Field Propagation for Autonomous Driving](https://github.com/PeterWANGHK/DRIFT)**  
+- 🛡️ **[DREAM – Defensive Risk‑Aware Planner](https://github.com/SAS-HKU/DREAM)**  
+- 📚 **[HKU DASE Course Materials](https://github.com/SAS-HKU/DASE7505_student)**  
 
 ---
 
