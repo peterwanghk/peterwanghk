@@ -15,6 +15,13 @@
 - **Human‑machine interaction** and multi‑modal perception in dynamic environments  
 
 ---
+### 📌 Highlight Projects  
+<!-- Replace links with your actual repository URLs -->
+- 🚗 **[DRIFT – Risk Field Propagation for Autonomous Driving](https://github.com/PeterWANGHK/DRIFT)**  
+- 🛡️ **[DREAM – Defensive Risk‑Aware Planner](https://github.com/SAS-HKU/DREAM)**  
+- 📚 **[HKU DASE Course Materials](https://github.com/SAS-HKU/DASE7505_student)**  
+
+---
 
 ### 🎓 Education  
 - **M.Phil. in Data & Systems Engineering**  
@@ -35,13 +42,6 @@
 
 ---
 
-### 📌 Highlight Projects  
-<!-- Replace links with your actual repository URLs -->
-- 🚗 **[DRIFT – Risk Field Propagation for Autonomous Driving](https://github.com/PeterWANGHK/DRIFT)**  
-- 🛡️ **[DREAM – Defensive Risk‑Aware Planner](https://github.com/SAS-HKU/DREAM)**  
-- 📚 **[HKU DASE Course Materials](https://github.com/SAS-HKU/DASE7505_student)**  
-
----
 
 <p align="center">
   <i>Let’s connect! Feel free to reach out for collaborations or discussions on autonomous driving safety.</i>
