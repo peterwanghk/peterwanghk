@@ -26,7 +26,7 @@
 ### 🎓 Education  
 - **M.Phil. in Data & Systems Engineering**  
   *The University of Hong Kong (2025 – present)*  
-  Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/) | HKU Social‑AI Systems Lab  
+  Supervisor: [Prof. Chen Sun](https://chensunmac.github.io/) | [HKU Social‑AI Systems Lab](https://github.com/SAS-HKU) 
 
 - **B.Eng. (Hons) in Electronic & Information Engineering**  
   *The Hong Kong Polytechnic University (2021 – 2025)*  
