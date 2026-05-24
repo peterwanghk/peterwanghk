@@ -18,7 +18,8 @@
 ### 📌 Highlight Projects  
 <!-- Replace links with your actual repository URLs -->
 - 🚗 **[DRIFT – Risk Field Propagation for Autonomous Driving](https://github.com/PeterWANGHK/DRIFT)**  
-- 🛡️ **[DREAM – Defensive Risk‑Aware Planner](https://github.com/SAS-HKU/DREAM)**  
+- 🛡️ **[DREAM – Defensive Risk‑Aware Planner](https://github.com/SAS-HKU/DREAM)**
+- 🛡️ **[SAFER – Social and Risk‑Aware RL for Autonomous Driving**](https://github.com/PeterWANGHK/SAFER.git)**
 - 📚 **[HKU DASE Course Materials](https://github.com/SAS-HKU/DASE7505_student)**  
 
 ---
